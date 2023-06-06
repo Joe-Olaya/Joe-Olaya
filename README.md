@@ -41,23 +41,25 @@ Hi, I'm Joel Olaya!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Joe-Olaya"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="HTML" src="https://img.shields.io/badge/-HTML-red"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="CSS" src="https://img.shields.io/badge/-CSS-red"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="React.js" src="https://img.shields.io/badge/-React.js-red"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-red"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="Redux" src="https://img.shields.io/badge/-Redux-red"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="PHP" src="https://img.shields.io/badge/-PHP-red"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-red"></a>
 </p>
 
 
 ### 🧰 Frameworks and Libraries
 
-<p>
+<p> 
+    <a href="https://github.com/Joe-Olaya"><img alt="React.js" src="https://img.shields.io/badge/-React.js-green"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-green"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="Redux" src="https://img.shields.io/badge/-Redux-green"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-green"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="Laravel.js" src="https://img.shields.io/badge/-Laravel-green"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-green"></a>
+    <a href="https://github.com/Joe-Olaya"><img alt="Eloquent" src="https://img.shields.io/badge/-Eloquent-green"></a>
 
 </p>
 
@@ -65,10 +67,8 @@ Hi, I'm Joel Olaya!
 
 <p>
     <a href="https://github.com/Joe-Olaya"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-blue"></a>
     <a href="https://github.com/Joe-Olaya"><img alt="MySql" src="https://img.shields.io/badge/-MySql-blue"></a>
-    <a href="https://github.com/Joe-Olaya"><img alt="Eloquent" src="https://img.shields.io/badge/-Eloquent-blue"></a>
 </p>
 
 ### 💻 Software and Tools
