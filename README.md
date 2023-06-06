@@ -31,7 +31,7 @@ Hi, I'm Joel Olaya!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:joel.olaya@hotmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:joel.olaya@hotmail.com"><img img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/joel-olaya-302761263/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Joe-Olaya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
