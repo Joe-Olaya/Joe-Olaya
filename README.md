@@ -25,7 +25,7 @@ Hi, I'm Joel Olaya!
 💻 I am a Full Stack Developer graduated from Soy Henry!
 📝 I have a strong interest in Apps and Webs designs
 🌟 Main languages: JavaScript & PHP
-🤔 I’m currently open for: a new <b>job opportunity</b>
+🤔 I’m currently working for: <a href="https://mapplics.com/"><b>Mapplics</b></a>
 </pre>
 <hr>
 
